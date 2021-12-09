@@ -43,7 +43,7 @@ const PictureList:React.FC<PropsFromRedux> = (props) => {
       </View>
     </TouchableOpacity>
   );
-
+// еуые еуеы еуые
 
   return <>
     <FlatList
