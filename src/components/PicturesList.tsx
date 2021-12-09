@@ -44,6 +44,7 @@ const PictureList:React.FC<PropsFromRedux> = (props) => {
     </TouchableOpacity>
   );
 
+
   return <>
     <FlatList
       contentContainerStyle={styles.main}
